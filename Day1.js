@@ -210,3 +210,31 @@
 // console.log(arr.length);
 // arr.push(7);
 
+function min(){
+    console.log(arguments);
+    console.log(arguments.length);
+   console.log( arguments.push(1));
+}
+// Simple Calculator in JS
+
+// Function for calculation
+function calculator(num1, num2, operator) {
+  switch (operator) {
+    case '+':
+      return num1 + num2;
+    case '-':
+      return num1 - num2;
+    case '*':
+      return num1 * num2;
+    case '/':
+      return num2 !== 0 ? num1 / num2 : "Error: Division by zero!";
+    default:
+      return "Invalid operator!";
+  }
+}
+
+// Example usage
+console.log(calculator(10, 5, '+'));  // 15
+console.log(calculator(10, 5, '-'));  // 5
+console.log(calculator(10, 5, '*'));  // 50
+console.log(calculator(10, 5, '/'));  // 2
