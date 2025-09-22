@@ -238,3 +238,4 @@ console.log(calculator(10, 5, '+'));  // 15
 console.log(calculator(10, 5, '-'));  // 5
 console.log(calculator(10, 5, '*'));  // 50
 console.log(calculator(10, 5, '/'));  // 2
+console.log(calculator("END OF DAY 1"));  // 2
