@@ -3,3 +3,4 @@
 // let bhai = [1,23,445,6,66];
 // let oupt = bhai.includes(23);
 // console.log(`The Given Number is ${oupt}`);
+ 
