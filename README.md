@@ -5,7 +5,9 @@ This repository contains my JavaScript learning practice.
 ## 📂 Topics Covered
 - Variables
 - Functions
+- Arrow Functions
 - Arrays
+- Arrays Methods
 - Loops
 - DOM Manipulation
 
