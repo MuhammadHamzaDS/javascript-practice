@@ -17,4 +17,4 @@ This repository contains my JavaScript learning practice.
 3. Enjoy the practice code 😃
 
 ## ✨ Author
-- Hamza
+- Muhammad Hamza
