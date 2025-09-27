@@ -10,7 +10,7 @@ This repository contains my JavaScript learning practice.
 - Arrays Methods
 - Loops
 - DOM Manipulation
-
+- Set (Intervals & Timeout)
 ## ▶️ How to Run
 1. Download or clone this repository
 2. Open `index.html` in browser
